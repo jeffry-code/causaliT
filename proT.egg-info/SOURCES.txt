@@ -1,5 +1,6 @@
 setup.py
 proT/__init__.py
+proT/paths.py
 proT.egg-info/PKG-INFO
 proT.egg-info/SOURCES.txt
 proT.egg-info/dependency_links.txt
